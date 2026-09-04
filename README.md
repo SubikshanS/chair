@@ -2,10 +2,6 @@
 
 A responsive chair-store landing page built with HTML and CSS.
 
-## Live Demo
-
-[Watch the website demo](https://github.com/SubikshanS/chair/raw/refs/heads/main/assets/chair-demo.mp4)
-
 ## Project Preview
 
 The page includes:
